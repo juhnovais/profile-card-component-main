@@ -86,7 +86,7 @@ body main section .profileInfo h2 {
   font-size: 18px;
 }
 body main section hr {
-  border: solid 1px hsl(0, 0%, 59%);
+  border-top: solid 1px hsl(0, 0%, 59%);
 }
 body main section .town {
   margin-top: 10px;
