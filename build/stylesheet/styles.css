@@ -1,4 +1,7 @@
 body {
+  background: url(../../images/bg-pattern-top.svg), url(../../images/bg-pattern-bottom.svg);
+  background-position: right 52vw bottom 35vh, left 48vw top 52vh;
+  background-repeat: no-repeat, no-repeat;
   background-color: hsl(185, 75%, 39%);
   display: flex;
   flex-flow: column;
@@ -8,7 +11,6 @@ body {
   height: 100vh;
   font-family: "Kumbh Sans", sans-serif;
   color: hsl(229, 23%, 23%);
-  overflow: hidden;
 }
 body .top-bg-pattern {
   position: absolute;
