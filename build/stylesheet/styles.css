@@ -8,6 +8,7 @@ body {
   height: 100vh;
   font-family: "Kumbh Sans", sans-serif;
   color: hsl(229, 23%, 23%);
+  overflow: hidden;
 }
 body .top-bg-pattern {
   position: absolute;
