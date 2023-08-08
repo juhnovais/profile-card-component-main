@@ -26,8 +26,8 @@
 
 ### Links
 
-- [Solution](https://github.com/juhnovais/profile-card-component)
-- [Live Site](https://juhnovais.github.io/profile-card-component)
+- [Solution](https://github.com/juhnovais/profile-card-component-main)
+- [Live Site](https://juhnovais.github.io/profile-card-component-main)
 
 ## My process
 
